@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Philip Akekudaga 👋</h1>
 
-<h3 align="center">PhD Researcher · Securing U.S. Critical Infrastructure with Programmable Network Defense</h3>
+<h3 align="center">PhD Researcher · Securing Critical Infrastructure with Programmable Network Defense</h3>
 
 <p align="center">
   <a href="https://akekulip.github.io"><img src="https://img.shields.io/badge/Portfolio-akekulip.github.io-2C3E50?style=for-the-badge&logo=githubpages&logoColor=white" alt="Portfolio"/></a>
